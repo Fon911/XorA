@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NPM_FLAGS": "--legacy-peer-deps"
+    }
+  }
+}
+https://github.com/Fon911/XorA.git
